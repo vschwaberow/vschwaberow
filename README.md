@@ -7,20 +7,22 @@ package main
 import "fmt"
 
 type Person struct {
-    City string
-    Country string 
-    Job string
-    Age string
+City string
+Country string
+Job string
+Age string
 }
 
 func main() {
-    volker := &Person {
-        City: "Gelsenkirchen",
-        Country: "Germany",
-        Job: "Something with IT",
-        Age: "Youth with home computers at Karstadt"
-    }
-    fmt.Printf("%#v\n", volker)
+volker := &Person {
+City: "Gelsenkirchen",
+Country: "Germany",
+Job: "Something with IT",
+Age: "Youth with home computers at Karstadt"
 }
+fmt.Printf("%#v\n", volker)
+}
+
 ```
 ---
+```
