@@ -1,7 +1,9 @@
 ## Welcome to Volker's bio
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vschwaberow&show_icons=true&theme=radical" width="380">
-<br/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=vschwaberow&show_icons=true&theme=radical" width="350">
+<br />
 
+
+### Description
 ```go
 package main
 
